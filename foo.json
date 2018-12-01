@@ -1,0 +1,19 @@
+[{
+		"request": {
+		    "method":"get",
+			"uri": "/hello"
+		},
+		"response": {
+			"text": "Hello World"
+		}
+	},
+	{
+		"request": {
+		    "method":"get",
+			"uri": "/go"
+		},
+		"response": {
+			"text": "go away !!!"
+		}
+	}
+]
